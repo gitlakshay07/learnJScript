@@ -1,6 +1,6 @@
                                                              // this is Arrays example
 
-// let marks = [79, 89, 99, 34, 45]; 1git 
+// let marks = [79, 89, 99, 34, 45]; 
 // console.log(marks);
 // console.log(marks.length);
 
