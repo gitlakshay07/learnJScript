@@ -10,7 +10,17 @@
 // for perticular consoles!
 // console.log(student["age"]);
 
-                        // practice :
+                // Symbol
+
+// const sym1 = Symbol();
+// const sym2 = Symbol("foo");
+// const sym3 = Symbol("foo");
+
+// console.log(Symbol("foo") === Symbol("foo"));
+
+// The above code creates three new Symbols. Note that Symbol("foo") does not coerce the string "foo" into a Symbol. It creates a new Symbol each time:
+
+                        // Advance topic
 
 // closure => function along with its scope!
 

@@ -20,7 +20,7 @@
 // console.log(newStr);
 // console.log(str);
 
-    // To trim the String
+    // To trim the String => trims first and last space if any!
 
 // let str = "    Apna  group   JS       ";
 // console.log(str.trim());

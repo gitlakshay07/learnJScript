@@ -2,26 +2,32 @@
 //   for loop
 
 // let sum = 0;
-
-// for (let i = 1 ; i <= 5 ; i++) {
-//     sum = sum + i ;
+// for(i = 2; i <= 10; i++) {
+//     sum = sum + i;
 // }
 // console.log(sum);
 
-// while loop
+// Print num 5 to 10
+
+// for (let num = 5; num <= 10; num++) {
+//     console.log(num);
+// }
+
+// Print odd num
+
+// for (let i = 10; i<=20; i++) {
+//     if (i % 2 === 1){
+//         console.log(i);
+//     }
+// }
+
+//    while loop
+
 // let i = 1;
 //  while (i <= 5 ) {
 //     console.log(i);
 //     i++;
 //  }
-
-// Do while loop
-
-// let i = 3;
-// do {
-//     console.log(i);
-//     i++;
-//  } while (i <= 5 );
 
 // for-of loop => for strings & arrays
 
